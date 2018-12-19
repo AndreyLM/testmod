@@ -1,1 +1,1 @@
-module github.com/andrewlm/testmod
+module github.com/andreylm/testmod
